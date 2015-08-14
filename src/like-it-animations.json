@@ -1,0 +1,10 @@
+// animations.json
+{
+  "like-it.ng-enter": [
+    ".fade-prepare!",
+    ".fade(5s 1s)",
+    ".slide(1s)",
+    ".rotate(10s)",
+    ".explode(1000ms)"
+  ]
+}

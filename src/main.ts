@@ -25,9 +25,9 @@ import WeatherApp from './WeatherApp';
     directives: [RouterOutlet, RouterLink],
     template: `
         <nav>
-            <a [router-link]="['/home']">Home</a>
-            <a [router-link]="['/repo-list']">Repo List</a>
-            <a [router-link]="['/weather']">WeatherApp</a>
+            <!--<a [router-link]="['/home']">Home</a>-->
+            <!--<a [router-link]="['/repo-list']">Repo List</a>-->
+            <!--<a [router-link]="['/weather']">WeatherApp</a>-->
         </nav>
         <main>
             <router-outlet></router-outlet>
