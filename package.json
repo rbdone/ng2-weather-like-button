@@ -1,0 +1,8 @@
+{
+  "name": "ng-hackathon-starter",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "node-static": "^0.7.7"
+  }
+}
